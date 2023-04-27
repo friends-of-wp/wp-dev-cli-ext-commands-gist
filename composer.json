@@ -1,0 +1,9 @@
+{
+  "name": "friends-of-wp/wp-dev-cli-ext-gist",
+  "description": "WP DevCli Extension that connects to gist and allows to run commands.",
+  "autoload": {
+    "psr-4": {
+      "FriendsOfWp\\GistDevCliExtension\\": "src/"
+    }
+  }
+}
